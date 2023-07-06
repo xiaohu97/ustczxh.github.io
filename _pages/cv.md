@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* 公共事业管理, 湖南中医药大学 2019-2023
-  * GPA：3.69/5
-  * 专业排名：15%
+* 自动化, 合肥工业大学 2015-2019
 
 Work experience
 ======
@@ -34,7 +32,7 @@ Skills
 
 Personal honor
 ======
-* 湖南中医药大学校级一等奖学金，2019-2020
+* 合肥工业大学校级一等奖学金，2019-2020
 
 Publications
 ======
@@ -56,4 +54,4 @@ Teaching
   
 Leadership and Service
 ======
-* 2021年湖南省大学生创新创业训练计划省级项目主持人
+* 
