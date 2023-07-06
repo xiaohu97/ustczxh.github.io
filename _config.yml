@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / Academics Page"
+title                    : "张晓虎 / Academics Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiaohu Zhang"
 description              : &description "personal description"
-url                      : https://zhoulvbang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ustczxh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhoulvbang/zhoulvbang.github.io"
+repository               : "xiaohu97/ustczxh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "个人信息"
+  name             : "Xiaohu Zhang"
   avatar           : "academic50k.png"
-  bio              : "清醒的在这个世界混时度日"
-  location         : "湖南·长沙"
-  employer         : "湖南中医药大学"
+  bio              : "those with a lack of purpose fill the void with pleasure"
+  location         : "AnHui·HeFei"
+  employer         : "USTC(University of Science and Technology of China)"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
-  email            : "zhoulvbang@163.com"
+  zhihu            : "https://www.zhihu.com/people/zhang-xiao-hu-17-42"
+  email            : "1473048313@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8447-2341"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
