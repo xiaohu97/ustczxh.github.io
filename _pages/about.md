@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到超级懒的小周的自留地/学术主页？"
+title: "欢迎来到狂奔小蜗牛的学术主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
